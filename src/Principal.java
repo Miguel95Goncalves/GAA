@@ -9,6 +9,7 @@ public class Principal {
 		// TODO Auto-generated method stub
 		
 		new Exercicio();
+		System.out.println("TUMTUM");
 	}
 
 }
